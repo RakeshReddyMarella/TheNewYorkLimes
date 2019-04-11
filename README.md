@@ -1,2 +1,0 @@
-# TheNewYorkLimes
-Created with CodeSandbox
